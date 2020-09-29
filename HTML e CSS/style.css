@@ -1,0 +1,79 @@
+
+			body{
+				background: #FFFAF0;
+				margin: 300px;
+				margin-top: 50px;
+				font-family: verdana;
+			}
+
+			p {
+				text-align: center;
+				font-size: 20px;
+				padding-right: 5%
+				padding-left: 5%;
+			}
+
+			h1 {
+				text-align: center;
+				font-size: 28px;
+				background: #FFB6C1;
+			}
+
+			#gif1{
+				width: 100%;
+			}
+
+			b{
+				color: #A020F0;
+			}
+
+			#social{
+				font-size: 20px;
+			}
+
+			em b{
+				color: #8B008B;
+			}
+
+			h2 {
+				text-align: center;
+				font-size: 28px;
+				background: #FFB6C1;
+			}
+			#gif2{
+				width: 50%;
+				text-align: left;
+			}
+
+			.skills{
+				font-size: 20px;
+				text-align: left;
+			}
+
+			.softSkills{
+				font-size: 20px;
+				text-align: left;
+			}
+			h3 {
+				text-align: center;
+				font-size: 28px;
+				background: #FFB6C1;
+			}
+
+			.gifskills{
+				width: 50%;
+
+			}
+			
+			ul{
+				display: inline-block;
+				vertical-align: top;
+			}
+
+			.header {
+				text-align: center;
+				font-size: 28px;
+				background-image: url("https://media1.giphy.com/media/SWhsTrEYSrGd4CAhNC/giphy.gif?cid=ecf05e47ltj2bx0si8mz4nglmby28xy6549a3n4ap2a62wtx&rid=giphy.gif"); 
+				color: white;
+				text-shadow: 3px;
+			}
