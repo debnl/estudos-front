@@ -1,11 +1,14 @@
 body{
 
-	background-image: url("https://s3-eu-west-1.amazonaws.com/ee-images-graham-sanderson/himmel-light-blue-646-06.jpg")
+	background: #fff;
 }
 
 header {
 
-	padding: 20px 0;
+
+	background: #ffccff;
+	position: relative;
+	height: 295px;
 
 }
 
@@ -13,7 +16,7 @@ header {
 	 
 	position: absolute;
 	left: -200px;
-	top: 10px;
+	top: 5px;
 	width: 35%;
 
 }
@@ -30,7 +33,8 @@ nav{
 
 	position: absolute;
 	top: 130px;
-	right: -50px;
+	right: -200px;
+	
 }
 
 nav li{
@@ -47,8 +51,49 @@ nav a {
 	color: #000;
 	font-weight: bold;
 	font-size: 20px;
-	font-family: verdana;
+	font-family: 'Secular One', sans-serif;
 	text-decoration: none;
 
 }
 
+p{
+
+	color: #000;
+	font-size: 12px;
+	text-decoration: none;
+	font-family: 'Secular One', sans-serif;
+
+}
+
+.redes {
+
+	width: 1080px;
+	margin: 0 auto;
+
+
+}
+
+.redes li {
+
+	display: inline-block;
+	margin: 0 0 0 80px;
+	text-align: center;
+	position: relative;
+	vertical-align: top;
+	top: 30px;
+}
+
+.titulorede {
+
+	color: #990099;
+	font-weight: bold;
+	font-size: 22px;
+	font-family: 'Secular One', sans-serif;
+	padding: 15px;
+
+}
+
+.predes {
+
+	padding: 15px;
+}
