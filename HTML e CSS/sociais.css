@@ -6,7 +6,7 @@ body{
 header {
 
 
-	background: #ffccff;
+	background: #ffcce6;
 	position: relative;
 	height: 295px;
 
@@ -52,7 +52,18 @@ nav a {
 	font-weight: bold;
 	font-size: 20px;
 	font-family: 'Secular One', sans-serif;
+	text-shadow: #000 3px;
 	text-decoration: none;
+
+
+}
+
+nav a:hover {
+
+	color: #ff4da6;
+	font-size: 22px;
+	opacity: 0.6;
+  	transition: 0.3s;
 
 }
 
@@ -76,16 +87,22 @@ p{
 .redes li {
 
 	display: inline-block;
-	margin: 0 0 0 80px;
+	margin: 20px;
 	text-align: center;
 	position: relative;
+	top: 50px;
+	left: 38px;
 	vertical-align: top;
-	top: 30px;
+	width: 28%;
+	padding: 3px 3px;
+	box-sizing: border-box;
+	border: 1px solid #000;
+	border-radius: 10px;
 }
 
 .titulorede {
 
-	color: #990099;
+	color: #ff4da6;
 	font-weight: bold;
 	font-size: 22px;
 	font-family: 'Secular One', sans-serif;
