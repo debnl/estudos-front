@@ -71,7 +71,6 @@ p{
 
 	color: #000;
 	font-size: 12px;
-	text-decoration: none;
 	font-family: 'Secular One', sans-serif;
 
 }
@@ -96,19 +95,40 @@ p{
 	width: 28%;
 	padding: 3px 3px;
 	box-sizing: border-box;
-	border: 1px solid #000;
+	border: 1px solid #ffcce6;
 	border-radius: 10px;
 }
 
-.titulorede {
+.redes li:hover{
 
+	border-color: #000;
+	transition: 0.3s;
+
+
+}
+
+.titulorede {
+	
+	text-decoration: none;
 	color: #ff4da6;
 	font-weight: bold;
 	font-size: 22px;
 	font-family: 'Secular One', sans-serif;
 	padding: 15px;
 
+
 }
+
+.titulorede a:hover {
+
+
+	color: #c653c6;
+	font-size: 24px.
+	opacity: 0.6;
+  	transition: 0.3s;
+  	text-decoration: none;
+}
+
 
 .predes {
 
