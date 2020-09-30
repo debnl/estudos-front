@@ -1,0 +1,34 @@
+body{
+
+	background-image: url("https://s3-eu-west-1.amazonaws.com/ee-images-graham-sanderson/himmel-light-blue-646-06.jpg")
+}
+
+#cabecalho {
+
+	background: #ffe6ee;
+}
+
+img {
+
+	width: 35%
+}
+
+nav li{
+
+	display: inline;
+	margin: 0 0 0 80px;
+
+}
+
+nav a {
+
+	display: inline-block;
+	text-transform: uppercase;
+	color: #000;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: verdana;
+	text-decoration: none;
+
+}
+
