@@ -3,14 +3,34 @@ body{
 	background-image: url("https://s3-eu-west-1.amazonaws.com/ee-images-graham-sanderson/himmel-light-blue-646-06.jpg")
 }
 
-#cabecalho {
+header {
 
-	background: #ffe6ee;
+	padding: 20px 0;
+
 }
 
-img {
+.gifcabecalho {
+	 
+	position: absolute;
+	left: -200px;
+	top: 10px;
+	width: 35%;
 
-	width: 35%
+}
+
+.caixa {
+
+	position: relative;
+	width: 980px;
+	margin: 0 auto;
+
+}
+
+nav{
+
+	position: absolute;
+	top: 130px;
+	right: -50px;
 }
 
 nav li{
