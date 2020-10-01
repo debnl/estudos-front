@@ -1,94 +1,136 @@
+body{
 
-			body{
-				background-image: url("https://s3-eu-west-1.amazonaws.com/ee-images-graham-sanderson/himmel-light-blue-646-06.jpg");
-				margin: 100px;
-				margin-top: 50px;
-				font-family: 'Secular One', sans-serif;
-			}
+	background: #fff;
+}
 
-			.principal{
-				text-align: center;
-				font-size: 20px;
-				padding-right: 5%
-				padding-left: 5%;
-				background: #FFF5EE;
-			}
+header {
 
-			.
 
-			p {
-				text-align: center;
-				font-size: 20px;
-				padding-right: 5%
-				padding-left: 5%;
-				background: #FFF5EE;
-			}
+	background: #ffcce6;
+	position: relative;
+	height: 295px;
 
-			h1 {
-				text-align: center;
-				font-size: 28px;
-				background: #FFB6C1;
-			}
+}
 
-			#gif1{
-				width: 100%;
-			}
+.gifcabecalho {
+	 
+	position: absolute;
+	left: -200px;
+	top: 5px;
+	width: 35%;
 
-			b{
-				color: #A020F0;
-			}
+}
 
-			#social{
-				font-size: 20px;
-				background: #FFF5EE;
-			}
+.caixa {
 
-			em b{
-				color: #8B008B;
-			}
+	position: relative;
+	width: 980px;
+	margin: 0 auto;
 
-			h2 {
-				text-align: center;
-				font-size: 28px;
-				background: #FFB6C1;
-			}
-			#gif2{
-				width: 50%;
-				text-align: left;
-			}
+}
 
-			.skills{
-				font-size: 20px;
-				text-align: left;
-				background: #FFF5EE;
-			}
+nav{
 
-			.softSkills{
-				font-size: 20px;
-				text-align: left;
-				background: #FFF5EE;
-			}
-			h3 {
-				text-align: center;
-				font-size: 28px;
-				background: #FFB6C1;
-			}
+	position: absolute;
+	top: 130px;
+	right: -200px;
+	
+}
 
-			.gifskills{
-				width: 50%;
-			}
-			
-			ul{
-				display: inline-block;
-				vertical-align: top;
-				background: #FFF5EE;
-				border-left: 3px;
-			}
+nav li{
 
-			.header {
-				text-align: center;
-				font-size: 28px;
-				background-image: url("https://media1.giphy.com/media/SWhsTrEYSrGd4CAhNC/giphy.gif?cid=ecf05e47ltj2bx0si8mz4nglmby28xy6549a3n4ap2a62wtx&rid=giphy.gif"); 
-				color: white;
-				text-shadow: 3px;
-			}
+	display: inline;
+	margin: 0 0 0 80px;
+
+}
+
+nav a {
+
+	display: inline-block;
+	text-transform: uppercase;
+	color: #000;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Secular One', sans-serif;
+	text-shadow: #000 3px;
+	text-decoration: none;
+
+
+}
+
+nav a:hover {
+
+	color: #ff4da6;
+	font-size: 22px;
+	opacity: 0.6;
+  	transition: 0.3s;
+
+}
+
+p{
+
+	color: #000;
+	font-size: 12px;
+	font-family: 'Secular One', sans-serif;
+
+}
+
+.redes {
+
+	width: 1080px;
+	margin: 0 auto;
+
+
+}
+
+.redes li {
+
+	display: inline-block;
+	margin: 20px;
+	text-align: center;
+	position: relative;
+	top: 50px;
+	left: 38px;
+	vertical-align: top;
+	width: 28%;
+	padding: 3px 3px;
+	box-sizing: border-box;
+	border: 1px solid #ffcce6;
+	border-radius: 10px;
+}
+
+.redes li:hover{
+
+	border-color: #000;
+	transition: 0.3s;
+
+
+}
+
+.titulorede {
+	
+	text-decoration: none;
+	color: #ff4da6;
+	font-weight: bold;
+	font-size: 22px;
+	font-family: 'Secular One', sans-serif;
+	padding: 15px;
+
+
+}
+
+.titulorede a:hover {
+
+
+	color: #c653c6;
+	font-size: 24px.
+	opacity: 0.6;
+  	transition: 0.3s;
+  	text-decoration: none;
+}
+
+
+.predes {
+
+	padding: 15px;
+}
