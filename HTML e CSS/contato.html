@@ -9,7 +9,6 @@
 		<link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet"> 
 
 	</head>
-
 		<body>
 			<header>
 				<div class="caixa">
@@ -25,4 +24,28 @@
 			</header>
 
 			<main>
+				<form>
+					<label for="nome">Nome completo</label>
+					<input class="input-padrao" type="text" id="nome" require placeholder="Jane Doe">
+
+					<label for="email">E-mail</label>
+					<input class="input-padrao" type="email" id="email" required placeholder="email@email.com">
+
+					<label for="tel">Telefone</label>
+					<input class="input-padrao"type="tel" id="tel" required placeholder="11 111111111">
+
+					<label for="mensagem">Mensagem</label>
+					<textarea class="input-padrao" id="mensagem" name="contato" cols="80 rows="10 placeholder="Escreva aqui sua mensagem de amor e carinho :)"></textarea>
+
+					<fieldset>
+						<p class="mensagem"> Como prefere o contato?</p>
+						<label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email"> E-mail</label>
+
+						<label for="radio-tel"><input type="radio" name="contato" value="email" id="radio-tel"> Telefone </label>
+						
+						<label class="checkboxz"><input type="checkbox"> Quero receber novidades por e-mail! ♥</label>
+					</fieldset>
+
+					<input class="enviar" type="submit" value="Enviar dados :)">
+				</form>
 			</main>
