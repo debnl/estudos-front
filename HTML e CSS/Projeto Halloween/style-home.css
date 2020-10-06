@@ -1,0 +1,57 @@
+body {
+
+	background: #fff;
+	font-size: 20px;
+	font-family: 'Courier Prime', monospace;
+	text-decoration: none;
+}
+
+header{
+	background: #000;
+	margin-bottom: 20px;
+}
+
+.navli{
+	text-decoration: none;
+	color: #fff;
+	text-shadow: white;
+}
+
+.navli:hover{
+
+	font-size: 21px;
+	color: #B22222;
+	transition: 0.8s;
+
+}
+
+nav li {
+	display: inline-block;
+	position: relative;
+	margin: 20px;
+	font-family: 'Architects Daughter', cursive;
+}
+
+.imgmain{
+	
+	margin-top: 20px;
+	margin: 15px;
+}
+
+.pmain{
+
+	position: relative;
+	vertical-align: top;
+	display: inline-block;
+	font-size: 15px;
+	width: 60%;
+	margin: 12px;
+	text-align: justify;
+
+}
+
+.pmain::selection {
+
+	background: #000;
+	color: #fff;
+}
