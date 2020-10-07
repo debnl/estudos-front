@@ -97,6 +97,8 @@ p{
 	box-sizing: border-box;
 	border: 1px solid #ffcce6;
 	border-radius: 10px;
+
+
 }
 
 .redes li:hover{
@@ -137,8 +139,6 @@ p{
 
 main{
 
-	width: 1080px;
-	margin: 0 auto;
 	font-family: 'Roboto Mono', monospace;
 	
 }
@@ -244,7 +244,7 @@ form input{
 }
 
 .htitle2 {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	font-size: 25px;
 	font-family: 'Roboto Mono', monospace;
 	color: #ff00bf;
@@ -260,7 +260,7 @@ form input{
 
 .htitle3 {
 
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	font-size: 25px;
 	font-family: 'Roboto Mono', monospace;
 	color: #ff00bf;
@@ -281,7 +281,6 @@ form input{
 	width: 60%;
 	margin-top: 30px;
 	font-family: 'Roboto Mono', monospace;
-
 	
 }
 
@@ -292,5 +291,36 @@ b{
 .main {
 
 	background: #ffe6ff;
-	padding-left: 10px;
+	padding-left: 20px;
+	padding-top: 40px;
+}
+
+footer {
+	margin-top: 30px;
+	padding: 10px;
+	background: #ffe6ff;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 10px;
+	text-align: center;
+
+}
+
+.skills li {
+
+		line-height: 1.7;
+
+}
+
+.inicio {
+
+	width: 1080px;
+	margin: 0 auto;
+}
+
+.itens:before {
+	content: "✨";
+}
+
+.contato {
+	margin: 30px;
 }
