@@ -4,6 +4,8 @@
 
 Este repositório armazenará meus estudos em front, seguindo as trilhas de curso da **Alura** e **Origamid**!
 
+🎯**Objetivos**: Melhorar meus conhecimentos de desenvolvimento front end para web, focando em HTML, CSS e JavaScript, que são os pilares da categoria. Além dos projetos dos cursos, quero fazer alguns pessoais para botar a mão na massa e melhorar as skills na prática.
+
 # Checkpoint: HTML5 e CSS3
 
 ![](https://media2.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif)
