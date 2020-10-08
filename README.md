@@ -6,6 +6,8 @@ Este repositório armazenará meus estudos em front, seguindo as trilhas de curs
 
 # Checkpoint: HTML5 e CSS3
 
+![](https://media2.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif)
+
 Terminados os quatro módulos de curso de HTML5 e CSS3 da trilha de front da Alura!
 
 **👩‍💻Projeto desenvolvido**: encurtador.com.br/gsIP6
