@@ -7,4 +7,9 @@ Este repositório armazenará meus estudos em front, seguindo as trilhas de curs
 # Checkpoint: HTML5 e CSS3
 
 Terminados os quatro módulos de curso de HTML5 e CSS3 da trilha de front da Alura!
+**👩‍💻Projeto desenvolvido**: encurtador.com.br/gsIP6
+
+**👾Questões a melhorar**: Tive dificuldade com a responsividade do site (até mesmo em aplicá-la, deixando o site estático), então pretendo ir mais a fundo com os cursos de Flexbox e como posso personalizar melhor a experiência mobile.
+
+
 Agora, o próximo passo é criar uma visão geral de front end e aplicar em projetos mais complexos, com a trilha de Web Design completo da Origamid.
