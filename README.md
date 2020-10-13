@@ -21,5 +21,8 @@ Agora, o próximo passo é criar uma visão generalizada de front end e aplicar 
 
 # Checkpoint: Início do curso Origamid
 
+
+![](https://i.giphy.com/media/scGEXUBdf7G48/giphy.webp)
+
 **👩‍💻Primeiro tópico:** Visão geral sobre design: cores, formas e como expressar corretamente em desenvolvimento web
 
