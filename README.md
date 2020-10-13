@@ -18,3 +18,8 @@ Terminados os quatro módulos de curso de HTML5 e CSS3 da trilha de front da Alu
 
 
 Agora, o próximo passo é criar uma visão generalizada de front end e aplicar em projetos mais complexos, com a trilha de Web Design completo da Origamid.
+
+# Checkpoint: Início do curso Origamid
+
+**👩‍💻Primeiro tópico:** Visão geral sobre design: cores, formas e como expressar corretamente em desenvolvimento web
+
