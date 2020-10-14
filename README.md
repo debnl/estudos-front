@@ -24,5 +24,10 @@ Agora, o próximo passo é criar uma visão generalizada de front end e aplicar 
 
 ![](https://i.giphy.com/media/scGEXUBdf7G48/giphy.webp)
 
-**👩‍💻Primeiro tópico:** Visão geral sobre design: cores, formas e como expressar corretamente em desenvolvimento web
+**👩‍💻Primeiro tópico:** Visão geral sobre design
+- cores
+- formas
+- como se expressar em desenvolvimento web
+- ui/ux
+- planejamento de projeto
 
