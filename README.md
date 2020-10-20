@@ -31,3 +31,6 @@ Agora, o próximo passo é criar uma visão generalizada de front end e aplicar 
 - ui/ux
 - planejamento de projeto
 
+**🧩 Softwares novos para design**
+- Adobe XD
+- Figma
